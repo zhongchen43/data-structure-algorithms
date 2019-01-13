@@ -1,2 +1,2 @@
-# data-structure-algorithms
-Basic data structure and algorithm implementations
+# Basic Data Structure and Algorithms
+This repository includes the basic data structure and algorithms implemented by C. 
